@@ -1,0 +1,19 @@
+---
+title: "SITUATIONAL AWARENESS Group1"
+---
+
+[CAUTION]{.red} this is a summary of the [Group 1 Session 1 notes](https://docs.google.com/document/d/1ETSxjqcpwdRiWAcjJISptX31SPh7gtk1iWWESqYVsIU/edit#heading=h.o3hc335eleau) created by GPT4.  Proceed appropriately.
+
+
+
+The discussion focuses on the challenges and solutions related to situational awareness (SA) in handling future threats. SA refers to understanding the current state of affairs to make informed decisions, especially during crises like pandemics. The challenges span from the type and amount of information given to game participants to the level of data trust, interpretation and expertise, and the impact of cognitive overload on decision-making.
+
+These challenges highlight the importance of data's Four Vs: Velocity, Veracity, Volume, and Variety. In addition, it's critical to balance between providing enough information to allow decision-making and withholding some to simulate the reality of incomplete data in real-world scenarios.
+
+Simulation games provide a way to train individuals in making effective decisions under such circumstances. They allow the modeling of uncertainty and unfamiliar situations to improve people's agility and comfort in decision-making.
+
+Gaps in our understanding of 'gaming for SA' include the development of a taxonomy of decision-makers across scales and the ability to track personal data assimilation during gameplay. Another gap is defining the public in these situations and understanding the various decision-making entities' roles.
+
+The discussion reflects on the idea of using gaming to identify what data we need, who needs to interpret it, and what kind of decisions are likely to be made under potential threats. Gaming could help in identifying objectives, making policies, and understanding public perception.
+
+The discussion ends with a proposed case-study challenge: "Help policymakers gain situational awareness about public perceptions of a threat" in the context of a new pandemic. Policymakers need to understand public sentiment about measures like mask use, school closures, and testing strategies. These insights help in making decisions that are effective and acceptable to the public.

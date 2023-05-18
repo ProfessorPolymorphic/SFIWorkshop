@@ -24,6 +24,10 @@ Image of the framework for Brainstorming Sessions:
 
 [GPT4 Summary for Group 3](GPT4summary.qmd)
 
+[GPT4 Summary for Group 1](GPT4summaryG1S1.qmd)
+
+[Example game from Group 1 notes](SAgamegroup1.qmd)
+
 ## **Brainstorming Session 2:** SADM Challenge 2 - Games to Advance Decision Making Under Uncertainty
 
 1.  What are the greatest decision making (DM) challenges we face as we 'get ready for' future threats? Think about all stages, from DM today to DM during the earliest stages of emergence to DM in the heat of the battle to DM as the threat recedes.
@@ -39,6 +43,8 @@ Image of the framework for Brainstorming Sessions:
 [GPT4 Summary for Group 3](DecisionsGPT4Group3.qmd)
 
 [PandemiSim: Crisis Decision Simulator](Pandemisim.qmd) is a GPT4 generated game idea based on the notes and summary from the group 3 discussion.
+
+[GPT4 Summary 2 for Group 1](GPT4summaryG1S2.qmd)
 
 ## **Brainstorming Session 3:** SADM Challenge 3 - Innovating Through Integration
 
@@ -56,5 +62,7 @@ Image of the framework for Brainstorming Sessions:
 
 [Testing rollout scenario](Testingrollout.qmd)
 
-[GPT4 summary for Group 3]
+[GPT4 summary for Group 3](GPT4summary.qmd)
+
+[GPT4 Summary 3 for Group 1](GPT4summaryG1S3.qmd)
 

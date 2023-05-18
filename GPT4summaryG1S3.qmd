@@ -1,0 +1,22 @@
+---
+title: "AI and stuff - group 1"
+---
+
+[CAUTION]{.red} This is a GPT4 summary of the [notes from group 1](https://docs.google.com/document/d/1ETSxjqcpwdRiWAcjJISptX31SPh7gtk1iWWESqYVsIU/edit#).  Proceed with trepidation....
+
+
+**SADM Challenge 3 - Innovating Through Integration Summary**
+
+Our brainstorming session for SADM Challenge 3 focused on exploring the use of complex systems theory, AI, and games to navigate the challenges and opportunities for pathogen threat readiness. 
+
+Our main case study centered around a game designed to identify vulnerable populations for novel/emerging pathogens, utilizing agent-based models (ABMs) of cities. We discussed the complexity of epidemiological models, their potential benefits and challenges, and the principles we could derive from generalized models for more detailed simulations. A significant point of discussion was the understanding and anticipation of novel behaviors and vulnerabilities. 
+
+One crucial facet of this is understanding the definitions and axes of 'vulnerability', along with the impact of policy decisions on vulnerable populations. Emphasis was placed on the need for games to train in probability and stochastic scenarios, stressing the importance of situational awareness in differing real and perceived landscapes of vulnerability. Another discussed point was the application of AI to recognize decision-making patterns and provide dynamic feedback to reduce vulnerability.
+
+We also discussed games designed to determine the best decision-making team, including AI-generated interlocutors for creating diverse decision-making perspectives and experimental design considerations for testing decision-making robustness.
+
+AI's role in threat response was also a key point, from decision support to misinformation campaigns. We addressed the potential risks and benefits, such as AI's possible erosion of public trust and its use in pharmaceutical interventions. It was also acknowledged that a balance must be struck between reliance on AI models and human decision-making, particularly in unforeseen scenarios.
+
+The session concluded with points for our group's ambassador, Linda, emphasizing the importance of translation post-game experience, understanding players' motivations, developing decision-support tools, and exploring how gaming can aid in decision-making under uncertainty and high-dimensional information. It was noted that adaptivity is crucial, which could be an application area for AI. 
+
+In sum, the session underscored the potential of integrating complex systems theory, AI, and gaming to improve preparedness for pathogen threats.

@@ -1,0 +1,34 @@
+---
+title: "DECISION MAKING - group 1"
+---
+
+
+Brainstorming Session 2: SADM Challenge 2 - Games to Advance Decision Making Under Uncertainty
+
+This session focused on the potential of simulation games to address challenges in decision making (DM) under uncertainty, especially concerning future threats. Participants identified notable DM challenges from the COVID-19 pandemic and suggested ways gaming could have aided in managing these challenges.
+
+Key points of the discussion included:
+
+1. Decision-making challenges during COVID-19: 
+    - Making decisions based on complex, uncertain information.
+    - Identifying leading and lagging indicators for better situational awareness.
+    - Predicting decisions that might be misinterpreted or misunderstood.
+    - Determining the potential severity of the virus for children and the ramifications of school closures.
+    - Implementing effective testing and vaccination policies.
+    - Balancing personal risk calculations with public health guidelines.
+
+2. Potential role of gaming:
+    - Games could simulate different scenarios to help decision-makers process complex information and predict possible impacts.
+    - Gaming could aid in distilling relevant data streams, reducing information complexity, and enhancing situational awareness.
+    - Games could help understand and prevent potential misinterpretations or misunderstandings.
+    - Using epidemiological models in games could communicate how potential interventions might play out, aiding in policy decision-making and implementation.
+    - Games could expose the weaknesses in the implementation of control structures.
+    - Gaming could help in risk calculation and general public decision-making.
+
+3. Gaps and research directions:
+    - Games need to be designed to consider long-distance connections and non-evident interdependencies in human social systems, like supply chains.
+    - Gaming should factor in the difference between policy recommendations/mandates and cultural norms, modeling heterogeneity of responses.
+    - Games should also explore the potential conflicts between the objectives/loss functions of participants.
+    - The usefulness of games beyond their capacity to be a forum for discussion generally needs to be evaluated.
+
+In conclusion, games have the potential to enhance decision-making in the face of uncertainty by simulating various scenarios and providing a platform for discussion and learning. However, further research is needed to fill the gaps in our understanding of the effectiveness of 'gaming for DM'.

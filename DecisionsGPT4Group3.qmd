@@ -1,0 +1,21 @@
+---
+title: "GAMES FOR DECISION SUPPORT"
+---
+
+# [Case Study:]{.red} Decision Support During a Pandemic Outbreak
+
+[CAUTION]{.red} This is a GPT-4 summary of the [Group 3 discussion notes](https://docs.google.com/document/d/1pwQjENZ7vvaONNoqZ1YW-1qE-QGNw14vVcMjAWRTqbQ/edit#).
+
+The brainstorming sessions have brought up several important considerations and recommendations for designing simulation games to support decision-making during pandemics:
+
+1. **Role of Simulation Games**: Simulation games serve as a risk-free environment to understand complex systems, allowing individuals to explore the outcomes of various decision-making strategies and actions. This helps in understanding the process, interactions, and the rationale behind certain decisions. Moreover, they could be used as tools to educate the audience about risks, generate various scenarios, and help decision-makers be aware of potential outcomes.
+
+2. **Addressing Uncertainty**: One of the most significant decision-making challenges during a pandemic is the uncertainty. The participants suggested that the games should help decision-makers take actions under uncertain conditions, get familiar with handling diverse models, and also enable them to make risk-based decisions. In this context, gaming can be utilized to help build a perspective around dealing with uncertainty, akin to how we approach weather forecasts.
+
+3. **Trust and Perception**: Games can be used to foster trust in models and methodologies used for decision-making, especially when those tools are from different regions or domains. They can also help in understanding the public's reaction to various decisions, which is crucial in managing a crisis. Moreover, these games can help in building trust and shared understanding among decision-makers, which can subsequently improve collaboration.
+
+4. **Training and Preparedness**: Games should be designed with specific learning objectives and intended to improve critical decision-making skills. Participants suggested that they should cater to various levels of hierarchy within decision-making structures, facilitating a mutual understanding of the complexities involved. Games can also be an excellent tool for preparedness, allowing individuals to learn from crisis situations without actual risk and understand the importance of investing in preparedness.
+
+5. **Gaps and Future Research**: There's a need to better understand how to design games that effectively communicate the importance of preparedness, engage participants, and lead to tangible changes in policy and behavior. Future research could focus on developing and evaluating games that incorporate realistic scenarios. Studying the mechanisms of behavior change in the context of games could provide valuable insights into designing more effective preparedness training tools.
+
+In summary, simulation games hold a significant potential to help address the decision-making challenges in a pandemic. They can aid in tackling uncertainty, building trust, training for preparedness, and understanding public perception. However, more research is required to optimally design these games to translate game experiences into real-world policy changes and behaviors.

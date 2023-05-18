@@ -20,10 +20,22 @@ Image of the framework for Brainstorming Sessions:
 
 3.  What are gaps in our understanding of and ability to advance 'gaming for SA'?
 
-4.   What are promising research directions to close those gaps? Perhaps start or end with articulating a particular 'case study' -- a concrete SA challenge (at any stage or scale of a threat) with a proposed gaming approach.
+4.  What are promising research directions to close those gaps? Perhaps start or end with articulating a particular 'case study' -- a concrete SA challenge (at any stage or scale of a threat) with a proposed gaming approach.
 
 [GPT4 Summary for Group 3](GPT4summary.qmd)
 
-## **Brainstorming Session 2:**
+## **Brainstorming Session 2:** SADM Challenge 2 - Games to Advance Decision Making Under Uncertainty
+
+1.  What are the greatest decision making (DM) challenges we face as we 'get ready for' future threats? Think about all stages, from DM today to DM during the earliest stages of emergence to DM in the heat of the battle to DM as the threat recedes.
+
+2.  How can simulation games (and other forms of exercising/gaming) help address these challenges?
+
+3.  What are gaps in our understanding of and ability to advance 'gaming for DM'?
+
+4.  What are promising research directions to close those gaps? Start with a round table: Each person shares a poignant DM challenge from COVID and thoughts on how games/exercises prior to COVID might have helped
+
+5.  End with a case study: As a group, select a concrete DM challenge (at any stage or scale of a threat) with a proposed gaming approach.
+
+[GPT4 Summary for Group 3](DecisionsGPT4Group3.qmd)
 
 ## **Brainstorming Session 3:**

@@ -52,3 +52,5 @@ Image of the framework for Brainstorming Sessions:
 
 5. End with a wrap-up and plan for your group report out. 
 
+[A crazy GPT4 generated scenario](XP7.qmd)
+

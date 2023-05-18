@@ -8,6 +8,10 @@ Image of the framework for Brainstorming Sessions:
 
 ![](IMG_3179.png)
 
+Also, Lauren turns into a cyborg...
+
+![](Laurencyborg.mp4)
+
 ## Resources
 
 [Group 3 Notes](https://docs.google.com/document/d/1pwQjENZ7vvaONNoqZ1YW-1qE-QGNw14vVcMjAWRTqbQ/edit#heading=h.vsg4onhlh4b1)
@@ -24,7 +28,9 @@ Image of the framework for Brainstorming Sessions:
 
 [GPT4 Summary for Group 3](GPT4summary.qmd)
 
-[GPT4 Summary for Group 1](GPT4summaryG1S1.qmd)
+[GPT4 Summary for Group 1](GPT4sumaryG1S1.qmd)
+
+[GPT4 Summary for Group 2](GPT4summaryG2S1.qmd)
 
 [Example game from Group 1 notes](SAgamegroup1.qmd)
 
@@ -46,6 +52,8 @@ Image of the framework for Brainstorming Sessions:
 
 [GPT4 Summary 2 for Group 1](GPT4summaryG1S2.qmd)
 
+[GPT4 Summary for Group 2](GPT4summaryG2S2.qmd)
+
 ## **Brainstorming Session 3:** SADM Challenge 3 - Innovating Through Integration
 
 1. Start with a deep dive into one of your case studies. How might we use complex systems theory, models, or other approaches to design an effective game? How might we use AI?
@@ -62,7 +70,9 @@ Image of the framework for Brainstorming Sessions:
 
 [Testing rollout scenario](Testingrollout.qmd)
 
-[GPT4 summary for Group 3](GPT4summary.qmd)
+[GPT4 summary 3 for Group 3](GPT4summary.qmd)
 
 [GPT4 Summary 3 for Group 1](GPT4summaryG1S3.qmd)
+
+[GPT4 Summary 3 for Group 2](GPT4summaryG2S3.qmd)
 

@@ -1,0 +1,37 @@
+---
+title: "Group 2 AI Overlords"
+---
+
+[CAUTION]{.red} This is a GPT 4 summary of [this group's notes](https://docs.google.com/document/d/1fOsiveDh_Tpcart2ikfYW5hp_h5WGVzifnPvjxsXVtk/edit#heading=h.3ch971jfdrn9).  Proceed with [insert funny quip here] ... 
+
+The brainstorming session on SADM Challenge 3 centered around innovation through integration, with a focus on AI and complex system sciences for advancing gaming for pathogen threat readiness.
+
+There were several propositions about how AI could improve decision-making in these games:
+
+1. AI can generate ideas while preserving human judgment.
+2. AI can enhance character development and nuances in the game.
+3. AI can support game analysis.
+4. AI actors could introduce unpredictable elements to the game, making it riskier and more realistic.
+5. AI can handle primary analysis while humans provide support.
+
+A significant discussion point was the difference between AI and hard-coded algorithms, with the challenge of making AI explain its reasoning.
+
+A focus on complex systems science revealed the potential for using agent-based models and network models to create products for gaming, aiding adjudicators in their tasks.
+
+Considering the 'case studies' approach, three phases were identified: pre-crisis, in-crisis, and post-crisis. Each phase brings unique challenges and benefits to the gaming design.
+
+Repetition of games was discussed as a way to improve results, reducing costs and gradually integrating AI components.
+
+The use of eye-tracking technology and voice recorders was suggested, but concerns about privacy and ethical issues related to human subjects were raised.
+
+A proposal for an AI-driven immersive environment was discussed. However, it was recommended to start simple, considering the goal of the game, and gradually increase complexity.
+
+There was a focus on developing games suitable for different levels of CDC employees: a simple game to educate all employees and a more complex, multiday game for management to simulate real-world crisis situations.
+
+Overall, the emphasis was on creating an adaptable gaming environment that mimics the complexities and uncertainties of real-world decision-making, with the help of AI and complex system models. The game should not be overly reliant on graphical sophistication but focus more on the mechanics and its capacity to deliver a valuable learning experience.
+
+One suggestion involved using AI to model and predict community responses to measures, to aid decision-making during a pandemic scenario.
+
+The potential for using games to research, understand and influence private sector responses to a crisis was highlighted. For example, understanding levers to encourage increased production during a crisis was discussed as a key aspect of pandemic preparedness.
+
+Finally, the idea of an AI or simulation acting as the 'virus' in a game was suggested, adding a dynamic and unpredictable element to the gaming experience.

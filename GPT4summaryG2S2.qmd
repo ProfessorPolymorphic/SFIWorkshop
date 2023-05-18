@@ -1,0 +1,23 @@
+---
+title: "Group 2 Decision Making"
+---
+
+[CAUTION]{.red} This is a GPT 4 summary of [this group's notes](https://docs.google.com/document/d/1fOsiveDh_Tpcart2ikfYW5hp_h5WGVzifnPvjxsXVtk/edit#heading=h.3ch971jfdrn9).  Proceed with abject terror... 
+
+Based on the brainstorming session for the SADM Challenge 2 - Games to Advance Decision Making Under Uncertainty, the following main points emerge:
+
+1. **Decision-making in crises**: The discussion examined decision-making during different stages of crises, such as the COVID-19 pandemic. It identified the role of modeling and data in these decisions, the challenges in communicating changes in guidance to the public, and the effect of political pressure on decision-making. 
+
+2. **The role of gaming in decision-making**: The group explored the potential for gaming and simulations to improve decision-making under uncertainty. Gaming could simulate the real-world impact of various choices, helping decision-makers understand the potential consequences of their actions. These simulations could also highlight the importance of contingencies, such as the availability of resources like masks and tests.
+
+3. **Gaps in gaming for decision-making**: Despite the potential benefits, there are several challenges in using games for decision-making. These include identifying the assumptions underlying a game, ensuring that the game does not mislead players, and dealing with the limitations of modeling complex systems.
+
+4. **Research directions**: The conversation suggested several promising areas for future research. These included improving the realism of games, integrating the social and political aspects of decision-making into simulations, and studying how playing games changes people's behavior.
+
+5. **Case study**: The group discussed a potential case study on decision-making in the context of the COVID-19 pandemic. This case would involve a concrete decision-making challenge, like whether to allow a large public event during a surge in cases, and how a gaming approach could have helped guide this decision.
+
+6. **Educating the public**: A recurrent theme in the conversation was the importance of building trust and literacy in public health among the general population. Games could play a role in this by engaging the public in a fun and accessible way, and by showing them the complexity of public health decisions.
+
+7. **Gaming in the future**: The team acknowledged the potential value of incorporating gaming into future crisis preparedness efforts. This could involve maintaining a state of readiness through regular exercises and games, improving public health literacy, and preparing for potential future threats.
+
+The group ended the discussion by expressing interest in reviewing the forthcoming Defense Influence War Gaming Handbook.

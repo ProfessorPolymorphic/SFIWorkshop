@@ -1,0 +1,36 @@
+---
+title: "Group 2 Situational Awareness"
+---
+
+[CAUTION]{.red} This is a GPT 4 summary of [this group's notes](https://docs.google.com/document/d/1fOsiveDh_Tpcart2ikfYW5hp_h5WGVzifnPvjxsXVtk/edit#heading=h.3ch971jfdrn9).  Proceed with appropriate fear of our robot overlords...
+
+This brainstorming session focused on the challenges and opportunities of using gaming and simulations to improve situational awareness (SA) for future threats, particularly public health threats. 
+
+The greatest SA challenges identified include:
+- Data collection issues, especially cross-jurisdictionally and internationally.
+- Decisions makers need tools to understand and explore a range of possibilities given limited data.
+- Political factors influencing what information and actions are acceptable.
+- Time lag for results from implemented interventions.
+- Communicating uncertainty effectively.
+
+The group considered simulation games as a method to help decision-makers understand these complexities and make informed decisions. However, the group also recognized potential pitfalls:
+- The game mechanics mustn't appear trivial or childish.
+- Decision-makers can't do everything simultaneously in real life; the game needs to reflect this constraint.
+- Games can be oversaturated with details, leading to an "unplayable monstrosity."
+- The game must provide decision-makers with the necessary information about current situations, available options, and the trade-offs of these decisions.
+- Games must include the sociopolitical context and possible reactions, including public backlash and political repercussions.
+
+Promising research directions to close these gaps include:
+- Developing case studies, such as one around a new respiratory virus in a data-poor environment, to guide the game development.
+- Designing the game to progress over time, possibly with different stages or vignettes representing different points in a threat's evolution.
+- Incorporating different perspectives to enhance understanding.
+- Exploring the "blame game," including how to depersonalize blame.
+- Focusing on specific scenarios, like travel restrictions or economic consequences, to narrow down game mechanics.
+
+To make the game more effective and accessible, it should:
+- Be playable within a reasonable time frame (suggested 3 hours) and without a steep learning curve.
+- Use a mix of real-world and fictional scenarios to prevent "gaming the past."
+- Balance realism with playability to avoid trivializing the subject matter.
+- Incorporate new technologies and interventions as they become available.
+
+Additionally, ongoing learning and adaption are needed to keep the game relevant and to ensure the valuable insights from past games aren't lost. The UK Ministry of Defense's efforts to develop this type of tool across their government is cited as a potential model.

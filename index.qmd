@@ -54,3 +54,5 @@ Image of the framework for Brainstorming Sessions:
 
 [A crazy GPT4 generated scenario](XP7.qmd)
 
+[Testing rollout scenario](Testingrollout.qmd)
+

@@ -40,4 +40,15 @@ Image of the framework for Brainstorming Sessions:
 
 [PandemiSim: Crisis Decision Simulator](Pandemisim.qmd) is a GPT4 generated game idea based on the notes and summary from the group 3 discussion.
 
-## **Brainstorming Session 3:**
+## **Brainstorming Session 3:** SADM Challenge 3 - Innovating Through Integration
+
+1. Start with a deep dive into one of your case studies. How might we use complex systems theory, models, or other approaches to design an effective game? How might we use AI?
+
+2. How can we use ideas and tools from complex systems science to advance gaming for pathogen threat readiness?
+
+3. How can we use AI to advance gaming for pathogen threat readiness?
+
+4. How can games help us to navigate the challenges and opportunities of AI with respect to pathogen threat readiness?
+
+5. End with a wrap-up and plan for your group report out. 
+

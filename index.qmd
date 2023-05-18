@@ -38,4 +38,6 @@ Image of the framework for Brainstorming Sessions:
 
 [GPT4 Summary for Group 3](DecisionsGPT4Group3.qmd)
 
+[PandemiSim: Crisis Decision Simulator](Pandemisim.qmd) is a GPT4 generated game idea based on the notes and summary from the group 3 discussion.
+
 ## **Brainstorming Session 3:**

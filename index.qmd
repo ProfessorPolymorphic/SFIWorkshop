@@ -56,3 +56,5 @@ Image of the framework for Brainstorming Sessions:
 
 [Testing rollout scenario](Testingrollout.qmd)
 
+[GPT4 summary for Group 3]
+

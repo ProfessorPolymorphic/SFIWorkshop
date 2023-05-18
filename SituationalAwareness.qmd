@@ -1,0 +1,47 @@
+---
+title: "SituationalAwareness"
+---
+
+![](IMG_3177.png)
+# PROMPTS
+
+## What are the greatest situational awareness (SA) challenges we face as we ‘get ready for’ future threats? Think about all stages, from SA today to SA during the earliest stages of emergence to SA in the heat of the battle to SA as the threat recedes.
+
+Surveillance. 
+
+Patterns of life / Anomaly detection.
+
+Constant overhead cost of monitoring - scaling up during times of need.  Problem of optimization?
+
+Uncertainty.
+
+Stress tests.
+
+
+## How can simulation games (and other forms of exercising/gaming) help address these challenges?
+
+Stress tests.
+
+Economic optimization.
+
+Uncertainty / replication.
+
+
+
+
+## What are gaps in our understanding of and ability to advance ‘gaming for SA’?
+
+Can people discover what data emerge as critical for their particular role?
+Games to collect data for SA.
+Games to train.
+
+Is there scope to include sports analytics?
+
+## What are promising research directions to close those gaps?
+
+Add informational adverseries? Lots of scope with GPT/LLM.
+
+
+## Perhaps start or end with articulating a particular ‘case study’ – a concrete SA challenge (at any stage or scale of a threat) with a proposed gaming approach.  
+
+

@@ -1,0 +1,29 @@
+---
+title: "SFIWorkshop"
+---
+
+# Simulation Games for Global Pandemic Resilience
+
+Image of the framework for Brainstorming Sessions:
+
+![](IMG_3179.png)
+
+## Resources
+
+[Group 3 Notes](https://docs.google.com/document/d/1pwQjENZ7vvaONNoqZ1YW-1qE-QGNw14vVcMjAWRTqbQ/edit#heading=h.vsg4onhlh4b1)
+
+## **Brainstorming Session 1:** SADM Challenge 1 - Situational Awareness
+
+1.  What are the greatest situational awareness (SA) challenges we face as we 'get ready for' future threats? Think about all stages, from SA today to SA during the earliest stages of emergence to SA in the heat of the battle to SA as the threat recedes.
+
+2.  How can simulation games (and other forms of exercising/gaming) help address these challenges?
+
+3.  What are gaps in our understanding of and ability to advance 'gaming for SA'?
+
+4.   What are promising research directions to close those gaps? Perhaps start or end with articulating a particular 'case study' -- a concrete SA challenge (at any stage or scale of a threat) with a proposed gaming approach.
+
+[GPT4 Summary for Group 3](GPT4summary.qmd)
+
+## **Brainstorming Session 2:**
+
+## **Brainstorming Session 3:**
